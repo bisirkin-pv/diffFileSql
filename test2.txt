@@ -1,0 +1,23 @@
+
+
+create   procedure name
+as
+begin
+    print 'test'
+
+    print 'test2'
+    if name = 1		
+    begin
+        text
+    end
+
+    select
+        case when 1=1 then 1
+        else null
+        end
+    text
+
+    text3
+
+end
+

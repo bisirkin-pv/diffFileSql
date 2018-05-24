@@ -1,0 +1,28 @@
+use db
+go
+
+create procedure name
+as
+begin
+    print 'test'
+
+    print 'test2ytu'
+    if name = 1
+    begin
+        textret
+    end
+
+    select
+        case when 1=1 then 1
+        else null
+        end
+    text
+
+    text3
+ggg
+
+end
+
+go
+
+text4
